@@ -1,0 +1,7 @@
+使用Lock和synchronized实现生产者/消费者
+
+主要四部分组成：
+    1：Consumer 消费者线程
+    2：Producer 生产者线程
+    3：Resource 缓存池
+    4：TestPC 测试类
